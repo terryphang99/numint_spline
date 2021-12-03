@@ -1,0 +1,2 @@
+Numerical Solutions for Part (b)
+Subinterval                     CGQ5                  error_CGQ5                    CCNC                  error_CCNC
